@@ -1,7 +1,7 @@
 # Multi-label classification using the BERT model
 
 ## About
-This project will be using the BERT model, from Hugging Face, to predict the categories of each research paper in the arXiv dataset.
+This project will be using the BERT model, from Hugging Face, to predict the categories of each research paper in the arXiv dataset, you can find the raw dataset at this link: https://www.kaggle.com/datasets/Cornell-University/arxiv
 
 ## Usage
 With this project, in case you do not have a strong GPU or enough RAM, it is best for you to run it on platforms which support GPU usage like Google Colab or Kaggle
